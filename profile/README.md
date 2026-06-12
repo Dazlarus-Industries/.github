@@ -28,7 +28,7 @@ That mission drives everything we build.
 
 - 🌐 [dazlarus.dev](https://dazlarus.dev)
 - 📝 [Blog](https://dazlarus.dev/blog)
-- ✉️ hello@dazlarus.dev
+- ✉️ dazlarus@gmail.com
 
 ---
 
